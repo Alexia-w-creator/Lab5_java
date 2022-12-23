@@ -7,7 +7,6 @@ import java.lang.reflect.InvocationTargetException;
 import java.util.Properties;
 
 public class Injector  {
-    //private
 
     public <T> T inject(T Obj)
     {
